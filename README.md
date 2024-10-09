@@ -3,11 +3,11 @@
 Here are some of my grouped projects:
 
 <details>
-  <summary>📂 Data Science Projects</summary>
+  <summary>🐍 Python Projects 🐍</summary>
   
   - [Data Analysis Toolkit](https://github.com/your-username/data-analysis-toolkit) - Tools for data wrangling and analysis.
   - [Machine Learning Models](https://github.com/your-username/machine-learning-models) - Various machine learning models.
-  - [Data Visualizations](https://github.com/your-username/data-visualizations) - Interactive data visualizations using D3.js.
+  - [Data Visualizations and Logistic Regression](https://github.com/oBritt/dslr) - asd.
   
 </details>
 
