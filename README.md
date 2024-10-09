@@ -69,7 +69,7 @@ Here are some of the programming languages and technologies I work with:
 
 ### Graphical
    1. **[Minirt](https://github.com/oBritt/MiniRt)**  
-      3D RayCaster with multiple objects: spheres, cones, cylinders and plains
+      3D Ray Tracer with multiple objects: spheres, cones, cylinders and plains
    
    2. **[Cub3d 2](https://github.com/oBritt/Cub3d)**  
       2.5D game implemented by using raycasting
