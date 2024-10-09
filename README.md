@@ -49,7 +49,7 @@ Here are some of the programming languages and technologies I work with:
 ## C++ Projects
 
 1. **[WebServ](https://github.com/oBritt/)**  
-   Description: A brief description of what this project does and its features.
+   Non-Blocking Web Server with working cookies 
 
 ### Small Projects
 - **[CPP09](https://github.com/oBritt/CPP09)**
