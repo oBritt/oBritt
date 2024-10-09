@@ -34,7 +34,7 @@ Here are some of the programming languages and technologies I work with:
 2. **[Data Science and Logistic Regression](https://github.com/oBritt/dslr)**  
    In that project I implemented Logistic Regression algorithm and visualized data
 
-3. **[Liniar Regression](https://github.com/yourusername/project3)**  
+3. **[Liniar Regression](https://github.com/oBritt/linear_regression)**  
    In that project I implemented Liniar Regression and visualized data
 
 ### Small Projects
