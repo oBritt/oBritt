@@ -67,14 +67,15 @@ Here are some of the programming languages and technologies I work with:
 
 ## C Projects
 
-1. **[Project 1](https://github.com/yourusername/project1)**  
-   Description: A brief description of what this project does and its features.
-
-2. **[Project 2](https://github.com/yourusername/project2)**  
-   Description: A brief description of what this project does and its features.
-
-3. **[Project 3](https://github.com/yourusername/project3)**  
-   Description: A brief description of what this project does and its features.
+### Graphical
+   1. **[Minirt](https://github.com/oBritt/MiniRt)**  
+      3D RayCaster with multiple objects: spheres, cones, cylinders and plains
+   
+   2. **[Project 2](https://github.com/oBritt/Cub3d)**  
+      2.5D game implemented by using raycasting
+   
+   3. **[Project 3](https://github.com/oBritt/so_long)**  
+      Simple 2D Game.
 
 4. **[Project 4](https://github.com/yourusername/project4)**  
    Description: A brief description of what this project does and its features.
