@@ -38,11 +38,11 @@ Here are some of the programming languages and technologies I work with:
    In that project I implemented Liniar Regression and visualized data
 
 ### Small Projects
-- **[PY04](https://github.com/yourusername/project1)**
-- **[PY03](https://github.com/yourusername/project2)**
-- **[PY02](https://github.com/yourusername/project3)**
-- **[PY01](https://github.com/yourusername/project4)**
-- **[PY00](https://github.com/yourusername/project5)**
+- **[PY04](https://github.com/oBritt/PY04)**
+- **[PY03](https://github.com/oBritt/PY03)**
+- **[PY02](https://github.com/oBritt/PY02)**
+- **[PY01](https://github.com/oBritt/PY01)**
+- **[PY00](https://github.com/oBritt/PY00)**
 
 ---
 
