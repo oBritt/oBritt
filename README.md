@@ -5,7 +5,7 @@ Here are some of my grouped projects:
 <details>
   <summary>🐍 Python Projects 🐍</summary>
   
-  - [Transcendence](https://github.com/oBritt/transcendence) - Ping Pong website with many additional features.
+  - [Transcendence](https://github.com/oBritt/ft_transcendence) - Ping Pong website with many additional features.
   - [Data Visualizations and Logistic Regression](https://github.com/oBritt/dslr) - Implementation of Logistic regression data vizualization and data presentation.
   - [Liniar Regression](https://github.com/oBritt/linear_regression) - Implementation of Liniar Regression alghorithm and some visualization.
   <details>
