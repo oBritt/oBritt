@@ -71,29 +71,26 @@ Here are some of the programming languages and technologies I work with:
    1. **[Minirt](https://github.com/oBritt/MiniRt)**  
       3D RayCaster with multiple objects: spheres, cones, cylinders and plains
    
-   2. **[Project 2](https://github.com/oBritt/Cub3d)**  
+   2. **[Cub3d 2](https://github.com/oBritt/Cub3d)**  
       2.5D game implemented by using raycasting
    
-   3. **[Project 3](https://github.com/oBritt/so_long)**  
+   3. **[Solong 3](https://github.com/oBritt/so_long)**  
       Simple 2D Game.
 
-4. **[Project 4](https://github.com/yourusername/project4)**  
-   Description: A brief description of what this project does and its features.
 
-5. **[Project 5](https://github.com/yourusername/project5)**  
-   Description: A brief description of what this project does and its features.
+### Other
 
-6. **[Project 6](https://github.com/yourusername/project6)**  
-   Description: A brief description of what this project does and its features.
+   1. **[Minishell 4](https://github.com/oBritt/miniShell)**  
+      Learn bash by recreating it.
 
-7. **[Project 7](https://github.com/yourusername/project7)**  
-   Description: A brief description of what this project does and its features.
+   2. **[ls](https://github.com/oBritt/ft_ls)**  
+      Learn ls command by recreating it.
 
-8. **[Project 8](https://github.com/yourusername/project8)**  
-   Description: A brief description of what this project does and its features.
+   3. **[push swap](https://github.com/oBritt/push_swap/)**  
+      Sort numbers using 2 'Stacks' using as little operations as possible
 
-9. **[Project 9](https://github.com/yourusername/project9)**  
-   Description: A brief description of what this project does and its features.
+   4. **[philosphers](https://github.com/oBritt/philosophers)**  
+      Solved famous dining philosophers Problem
 
 ---
 
