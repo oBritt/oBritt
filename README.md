@@ -30,20 +30,11 @@ Here are some of the programming languages and technologies I work with:
    Description: A brief description of what this project does and its features.
 
 ### Small Projects
-1. **[Project 1](https://github.com/yourusername/project1)**  
-   Description: A brief description of what this project does and its features.
-
-2. **[Project 2](https://github.com/yourusername/project2)**  
-   Description: A brief description of what this project does and its features.
-
-3. **[Project 3](https://github.com/yourusername/project3)**  
-   Description: A brief description of what this project does and its features.
-
-4. **[Project 4](https://github.com/yourusername/project4)**  
-   Description: A brief description of what this project does and its features.
-
-5. **[Project 5](https://github.com/yourusername/project5)**  
-   Description: A brief description of what this project does and its features.
+- **[Project 1](https://github.com/yourusername/project1)**
+- **[Project 2](https://github.com/yourusername/project2)**
+- **[Project 3](https://github.com/yourusername/project3)**
+- **[Project 4](https://github.com/yourusername/project4)**
+- **[Project 5](https://github.com/yourusername/project5)**
 
 ---
 
