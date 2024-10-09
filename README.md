@@ -5,9 +5,9 @@ Here are some of my grouped projects:
 <details>
   <summary>🐍 Python Projects 🐍</summary>
   
-  - [Data Analysis Toolkit](https://github.com/your-username/data-analysis-toolkit) - Tools for data wrangling and analysis.
-  - [Machine Learning Models](https://github.com/your-username/machine-learning-models) - Various machine learning models.
-  - [Data Visualizations and Logistic Regression](https://github.com/oBritt/dslr) - asd.
+  - [Transcendence](https://github.com/oBritt/transcendence) - Ping Pong website with many additional features.
+  - [Data Visualizations and Logistic Regression](https://github.com/oBritt/dslr) - Implementation of Logistic regression data vizualization and data presentation.
+  - [Liniar Regression](https://github.com/oBritt/linear_regression) - Implementation of Liniar Regression alghorithm and some visualization.
   
 </details>
 
