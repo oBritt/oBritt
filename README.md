@@ -19,7 +19,7 @@ Here are some of the programming languages and technologies I work with:
 
 ## Python Projects
 
-1. **[A FullStack Web Application - Project](https://github.com/oBritt/ft_transcendence)**  
+1. **[A FullStack Web Application](https://github.com/oBritt/ft_transcendence)**  
    - **Backend**: Django (Python)  
    - **Frontend**: HTML/CSS, JavaScript  
    - **Infrastructure**: Docker  
@@ -31,18 +31,18 @@ Here are some of the programming languages and technologies I work with:
      - Three.js/WebGL  
      - Redis
 
-2. **[Project 2](https://github.com/yourusername/project2)**  
-   Description: A brief description of what this project does and its features.
+2. **[Data Science and Logistic Regression](https://github.com/oBritt/dslr)**  
+   In that project I implemented Logistic Regression algorithm and visualized data
 
-3. **[Project 3](https://github.com/yourusername/project3)**  
-   Description: A brief description of what this project does and its features.
+3. **[Liniar Regression](https://github.com/yourusername/project3)**  
+   In that project I implemented Liniar Regression and visualized data
 
 ### Small Projects
-- **[Project 1](https://github.com/yourusername/project1)**
-- **[Project 2](https://github.com/yourusername/project2)**
-- **[Project 3](https://github.com/yourusername/project3)**
-- **[Project 4](https://github.com/yourusername/project4)**
-- **[Project 5](https://github.com/yourusername/project5)**
+- **[PY04](https://github.com/yourusername/project1)**
+- **[PY03](https://github.com/yourusername/project2)**
+- **[PY02](https://github.com/yourusername/project3)**
+- **[PY01](https://github.com/yourusername/project4)**
+- **[PY00](https://github.com/yourusername/project5)**
 
 ---
 
