@@ -20,8 +20,12 @@ Here are some of the programming languages and technologies I work with:
 ## Python Projects
 
 ### Big Projects
-1. **[Project 1](https://github.com/yourusername/project1)**  
-   Description: A brief description of what this project does and its features.
+1. **[A FullStack Web Application-Project](https://github.com/oBritt/ft_transcendence)**  
+   Backend: Django (Python)
+   Frontend: HTML/CSS, JavaScript
+   Infrastructure: Docker
+   Database: PostgreSQL
+   Other: ModSecurity && nginx && OWASP, Vault, Three.js/WebGL, redis
 
 2. **[Project 2](https://github.com/yourusername/project2)**  
    Description: A brief description of what this project does and its features.
