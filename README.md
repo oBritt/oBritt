@@ -50,7 +50,7 @@ Here are some of the programming languages and technologies I work with:
 
 1. **[WebServ](https://github.com/oBritt/)**  
    Non-Blocking Web Server with working cookies 
-2. **[ComputorV1](https://github.com/Computor-v1)/)**  
+2. **[ComputorV1](https://github.com/oBritt/Computor-v1/)**  
    Mathematical project on polynomials
 
 ### Small Projects
